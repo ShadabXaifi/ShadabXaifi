@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Android , MERN**
 
 - 📫 How to reach me **m.shadab2037@gmail.com**
 
